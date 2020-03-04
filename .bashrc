@@ -5,13 +5,14 @@
 # ------------------------------------------------------------
 
 # git
-alias gs = 'git status'
-alias ga = 'git add .'
-alias gc = "git commit -m "
+alias gs='git status'
+alias ga='git add .'
+alias gc="git commit -m "
+alias gco='git checkout'
 
 # docker
-alias dc = 'docker-compose'
-alias dcdup = 'docker-compose down && docker-compose up'
+alias dc='docker-compose'
+alias dcdup='docker-compose down && docker-compose up'
 
 
 # tmux

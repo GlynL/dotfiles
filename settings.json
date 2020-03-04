@@ -14,5 +14,5 @@
         "<C-d>": false,
         "<C-u>": false
     },
-    "typescript.updateImportsOnFileMove.enabled": "always
+    "typescript.updateImportsOnFileMove.enabled": "always",
 }

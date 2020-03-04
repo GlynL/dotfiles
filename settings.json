@@ -1,4 +1,18 @@
 {
-    "editor.formatOnSave": true,
+     "editor.formatOnSave": true,
+    "workbench.sideBar.location": "right",
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "workbench.editor.enablePreview": false,
+    "prettier.arrowParens": "always",
+    "prettier.trailingComma": "all",
+    "workbench.startupEditor": "newUntitledFile",
+    "vim.handleKeys": {
+        "<C-d>": false,
+        "<C-u>": false
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always
 }

@@ -1,5 +1,5 @@
-comments are with a ;
-uses auto hot key - https://www.autohotkey.co ;
+; comments are with a
+; uses auto hot key - https://www.autohotkey.co
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.

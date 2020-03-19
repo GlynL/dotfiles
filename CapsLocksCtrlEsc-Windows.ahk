@@ -1,4 +1,5 @@
-# uses auto hot key - https://www.autohotkey.co
+#CommentFlag //  ; Change to C++ comment style.
+// uses auto hot key - https://www.autohotkey.co 
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.

@@ -4,6 +4,11 @@
 # CUSTOM SCRIPTS
 # ------------------------------------------------------------
 
+# startup w/ tmux
+if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
+    tmux attach -t default || tmux new -s default
+fi
+
 # git
 alias gs='git status'
 alias ga='git add .'
